@@ -335,7 +335,7 @@ svg {
 
 .like-icon .main-body {
   fill: transparent;
-  transition: fill 0.3s 0.05s linear; 
+  transition: fill 0.3s 0.05s linear;
 }
 
 .is-liked .heart {
